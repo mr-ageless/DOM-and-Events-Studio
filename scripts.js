@@ -32,7 +32,7 @@ abort.addEventListener('click', function(event) {
         flightScreen.style.background = 'green';
         shuttleHeight.innerHTML = 0;
     }
-}
+});
 }
 
 
