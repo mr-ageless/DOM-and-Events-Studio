@@ -1,9 +1,6 @@
 // Write your JavaScript code here.
 // Remember to pay attention to page loading!
-// Write your JavaScript code here.
-// Remember to pay attention to page loading!
-// Write your JavaScript code here.
-// Remember to pay attention to page loading!
+
 function init(){
     const button = document.getElementById("takeoff");
     const status = document.getElementById("flightStatus");
